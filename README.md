@@ -1,6 +1,9 @@
 # largestnumber
 LHL Assignment 3
 
+int main(int argc, const char * argv[]) {
+    @autoreleasepool {
+
 //c style array w/5 elements
         int x[] = {15, 12, 27, 10, 45};
         int greatest = x[0];
